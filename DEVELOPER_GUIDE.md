@@ -67,10 +67,3 @@ The `MainApplication` class is the main GUI application that utilizes the `Multi
 5. Click the "RESET" button to clear all selections and start over.
 6. The final results are displayed in the text widget with horizontal and vertical scrollbars.
 
-## Customization
-
-Developers can customize the application by modifying the code. For example, additional filters or data sources can be incorporated, and the appearance of the GUI can be adjusted.
-
-## Conclusion
-
-The "MAJOR SELECT SYSTEM" provides a user-friendly interface for filtering and displaying educational program data. Developers can leverage the code as a foundation for building similar applications or extend its functionality to suit specific requirements.
